@@ -5,7 +5,7 @@ My toolkit boasts expertise in HTML, Css, bootstrap, tailwindcss, javascript, ty
 As an avid learner and open-source advocate, I stay abreast of the latest trends and technologies. Continuously exploring Javascript libraries , I believe in the power of collaboration and continuous improvement to drive innovation.
 
 
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" width="60"></code>
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60"></code>
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60"></code>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60"></code>
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="60"></code>
