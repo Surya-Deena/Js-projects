@@ -12,3 +12,4 @@ As an avid learner and open-source advocate, I stay abreast of the latest trends
 <img src="https://img.icons8.com/color/70/javascript--v1.png" alt="javascript--v1"></code>
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="60"></code>
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="60"></code>
+<img src="https://www.vectorlogo.zone/logos/reactjs/next.png" width="60"></code>
