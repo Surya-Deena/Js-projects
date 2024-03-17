@@ -9,6 +9,6 @@ As an avid learner and open-source advocate, I stay abreast of the latest trends
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60"></code>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60"></code>
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="60"></code>
-<img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"></code>
+<img width="96" height="96" src="https://img.icons8.com/color/96/javascript--v1.png" alt="javascript--v1"></code>
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="60"></code>
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="60"></code>
